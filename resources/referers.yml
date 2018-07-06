@@ -4244,7 +4244,7 @@ travel:
       
   Google Flights:
     domains:
-      - googletraveladservices
+      - googletraveladservices.com
       
   Travelocity:
     domains:
@@ -4266,3 +4266,11 @@ travel:
     domains:    
       - bookingbuddy.com
 
+  Booking:
+    domains:
+      - booking.com
+      - sp.booking.com
+
+  Travelzoo:
+    domains:
+      - travelzoo.com
