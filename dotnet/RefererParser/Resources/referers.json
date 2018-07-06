@@ -4207,7 +4207,7 @@
         }, 
         "Google Flights": {
             "domains": [
-                "googletraveladservices"
+                "googletraveladservices.com"
             ]
         }, 
         "Turismocity": {
@@ -4223,6 +4223,12 @@
         "Travelocity": {
             "domains": [
                 "travelocity.com"
+            ]
+        }, 
+        "Booking": {
+            "domains": [
+                "booking.com", 
+                "sp.booking.com"
             ]
         }, 
         "Bookingbuddy": {
@@ -4440,6 +4446,11 @@
         "Hotwire": {
             "domains": [
                 "hotwire.com"
+            ]
+        }, 
+        "Travelzoo": {
+            "domains": [
+                "travelzoo.com"
             ]
         }, 
         "Justfly": {
