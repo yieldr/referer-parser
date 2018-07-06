@@ -192,6 +192,14 @@ social:
       - m.facebook.com
       - l.facebook.com
       - lm.facebook.com
+      - apps.facebook.com
+      - business.facebook.com
+      - es-la.facebook.com
+      - mobile.facebook.com
+      - mtouch.facebook.com
+      - touch.facebook.com
+      - web.facebook.com
+      - www.facebook.com
 
   Qzone:
     domains:
@@ -214,6 +222,8 @@ social:
     domains:
       - youtube.com
       - youtu.be
+      - m.youtube.com
+      - www.youtube.com
 
   Vimeo:
     domains:
@@ -3221,6 +3231,13 @@ search:
       - www.qualigo.de
       - www.qualigo.nl
 
+  Qwant:
+    parameters:
+      - q
+    domains:
+      - qwant.com
+      - lite.qwant.co
+
   Rakuten:
     parameters:
       - qt
@@ -3323,6 +3340,10 @@ search:
       - query
       - w
     domains:
+      - 123.sogou.com
+      - english.sogou.com
+      - m.sogou.com
+      - wap.sogou.com
       - www.sougou.com
       - www.soso.com
 
@@ -3786,6 +3807,19 @@ paid:
     domains:
       - cas.jp.as.criteo.com
       - cas.criteo.com
+      - ads.eu.criteo.com
+      - ads.us.criteo.com
+      - cas.criteo.com
+      - cas.eu.criteo.com
+      - cas.us.criteo.com
+      - cat.fr.eu.criteo.com
+      - cat.nl.eu.criteo.com
+      - cat.va.us.criteo.com
+      - info.eu.criteo.com
+      - info.us.criteo.com
+      - rdi.us.criteo.com
+      - rdi.eu.criteo.com
+      - cas.jp.as.criteo.com
 
   Doubleclick:
     domains:
@@ -3873,6 +3907,7 @@ paid:
   Sizmek:
     domains:
       - bs.serving-sys.com
+      - secure-ds.serving-sys.com
 
   Sociomantic Labs:
     domains:

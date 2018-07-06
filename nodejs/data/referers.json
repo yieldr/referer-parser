@@ -1240,6 +1240,14 @@
                 "q"
             ]
         }, 
+        "Everyclick": {
+            "domains": [
+                "www.everyclick.com"
+            ], 
+            "parameters": [
+                "keyword"
+            ]
+        }, 
         "Wirtualna Polska": {
             "domains": [
                 "szukaj.wp.pl"
@@ -2273,18 +2281,13 @@
                 "string"
             ]
         }, 
-        "Bing": {
+        "Qwant": {
             "domains": [
-                "bing.com", 
-                "www.bing.com", 
-                "msnbc.msn.com", 
-                "dizionario.it.msn.com", 
-                "cc.bingj.com", 
-                "m.bing.com"
+                "qwant.com", 
+                "lite.qwant.co"
             ], 
             "parameters": [
-                "q", 
-                "Q"
+                "q"
             ]
         }, 
         "X-recherche": {
@@ -3010,12 +3013,18 @@
                 "q"
             ]
         }, 
-        "Everyclick": {
+        "Bing": {
             "domains": [
-                "www.everyclick.com"
+                "bing.com", 
+                "www.bing.com", 
+                "msnbc.msn.com", 
+                "dizionario.it.msn.com", 
+                "cc.bingj.com", 
+                "m.bing.com"
             ], 
             "parameters": [
-                "keyword"
+                "q", 
+                "Q"
             ]
         }, 
         "Google Video": {
@@ -3598,6 +3607,10 @@
         }, 
         "Sogou": {
             "domains": [
+                "123.sogou.com", 
+                "english.sogou.com", 
+                "m.sogou.com", 
+                "wap.sogou.com", 
                 "www.sougou.com", 
                 "www.soso.com"
             ], 
@@ -3933,7 +3946,15 @@
                 "fb.me", 
                 "m.facebook.com", 
                 "l.facebook.com", 
-                "lm.facebook.com"
+                "lm.facebook.com", 
+                "apps.facebook.com", 
+                "business.facebook.com", 
+                "es-la.facebook.com", 
+                "mobile.facebook.com", 
+                "mtouch.facebook.com", 
+                "touch.facebook.com", 
+                "web.facebook.com", 
+                "www.facebook.com"
             ]
         }, 
         "Disqus": {
@@ -3987,7 +4008,9 @@
         "Youtube": {
             "domains": [
                 "youtube.com", 
-                "youtu.be"
+                "youtu.be", 
+                "m.youtube.com", 
+                "www.youtube.com"
             ]
         }, 
         "Reddit": {
@@ -4640,13 +4663,27 @@
         }, 
         "Sizmek": {
             "domains": [
-                "bs.serving-sys.com"
+                "bs.serving-sys.com", 
+                "secure-ds.serving-sys.com"
             ]
         }, 
         "Criteo": {
             "domains": [
                 "cas.jp.as.criteo.com", 
-                "cas.criteo.com"
+                "cas.criteo.com", 
+                "ads.eu.criteo.com", 
+                "ads.us.criteo.com", 
+                "cas.criteo.com", 
+                "cas.eu.criteo.com", 
+                "cas.us.criteo.com", 
+                "cat.fr.eu.criteo.com", 
+                "cat.nl.eu.criteo.com", 
+                "cat.va.us.criteo.com", 
+                "info.eu.criteo.com", 
+                "info.us.criteo.com", 
+                "rdi.us.criteo.com", 
+                "rdi.eu.criteo.com", 
+                "cas.jp.as.criteo.com"
             ]
         }, 
         "Fluct": {
