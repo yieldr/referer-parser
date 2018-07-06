@@ -1597,6 +1597,7 @@ search:
       - encrypted.google.com
       # Syndicated search
       - googlesyndicatedsearch.com
+      - com.google.android.googlequicksearchbox
 
   Google Blogsearch:
     parameters:
@@ -3686,6 +3687,7 @@ search:
       - yandex.ua
       - yandex.com
       - yandex.by
+      - yandex.kz
       - www.yandex.ru
       - www.yandex.ua
       - www.yandex.com
